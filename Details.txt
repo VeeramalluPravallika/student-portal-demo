@@ -1,0 +1,4 @@
+Name:Pravallika
+course:Bsc
+section:A
+Roll:46
